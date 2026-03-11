@@ -1,0 +1,2452 @@
+{
+  "meta": {
+    "district": "강서구",
+    "busTargetMonth": "202602",
+    "subwayTargetMonth": "202602",
+    "sampleMode": false,
+    "processedAt": "2026-03-11T06:13:00.329Z",
+    "busStopCount": 611,
+    "subwayStationCount": 18
+  },
+  "items": [
+    {
+      "stationName": "김포공항",
+      "stationCodes": [
+        "1980",
+        "2513",
+        "4102",
+        "4207",
+        "4929"
+      ],
+      "routeNames": [
+        "5호선",
+        "9호선",
+        "공항철도 1호선",
+        "공항철도1호선",
+        "김포골드라인",
+        "서해선"
+      ],
+      "latitude": 37.5617,
+      "longitude": 126.8041,
+      "totalBoardings": 900001,
+      "totalAlightings": 814400,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 660,
+          "alightings": 2629
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 176
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 52,
+          "alightings": 11
+        },
+        {
+          "hour": "05",
+          "boardings": 3248,
+          "alightings": 8593
+        },
+        {
+          "hour": "06",
+          "boardings": 9680,
+          "alightings": 37992
+        },
+        {
+          "hour": "07",
+          "boardings": 35530,
+          "alightings": 60741
+        },
+        {
+          "hour": "08",
+          "boardings": 53668,
+          "alightings": 65883
+        },
+        {
+          "hour": "09",
+          "boardings": 36694,
+          "alightings": 46249
+        },
+        {
+          "hour": "10",
+          "boardings": 37372,
+          "alightings": 48723
+        },
+        {
+          "hour": "11",
+          "boardings": 45757,
+          "alightings": 56185
+        },
+        {
+          "hour": "12",
+          "boardings": 43265,
+          "alightings": 60665
+        },
+        {
+          "hour": "13",
+          "boardings": 55911,
+          "alightings": 61638
+        },
+        {
+          "hour": "14",
+          "boardings": 64873,
+          "alightings": 57022
+        },
+        {
+          "hour": "15",
+          "boardings": 63952,
+          "alightings": 52716
+        },
+        {
+          "hour": "16",
+          "boardings": 68865,
+          "alightings": 58126
+        },
+        {
+          "hour": "17",
+          "boardings": 71134,
+          "alightings": 64649
+        },
+        {
+          "hour": "18",
+          "boardings": 92562,
+          "alightings": 59357
+        },
+        {
+          "hour": "19",
+          "boardings": 59784,
+          "alightings": 35582
+        },
+        {
+          "hour": "20",
+          "boardings": 50641,
+          "alightings": 16577
+        },
+        {
+          "hour": "21",
+          "boardings": 43603,
+          "alightings": 9728
+        },
+        {
+          "hour": "22",
+          "boardings": 46620,
+          "alightings": 6601
+        },
+        {
+          "hour": "23",
+          "boardings": 16130,
+          "alightings": 4557
+        }
+      ]
+    },
+    {
+      "stationName": "화곡",
+      "stationCodes": [
+        "2518"
+      ],
+      "routeNames": [
+        "5호선"
+      ],
+      "latitude": 37.541513,
+      "longitude": 126.840461,
+      "totalBoardings": 723439,
+      "totalAlightings": 675986,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 636,
+          "alightings": 6543
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 5
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 471,
+          "alightings": 3
+        },
+        {
+          "hour": "05",
+          "boardings": 18958,
+          "alightings": 1337
+        },
+        {
+          "hour": "06",
+          "boardings": 33719,
+          "alightings": 8191
+        },
+        {
+          "hour": "07",
+          "boardings": 91923,
+          "alightings": 12448
+        },
+        {
+          "hour": "08",
+          "boardings": 120100,
+          "alightings": 27808
+        },
+        {
+          "hour": "09",
+          "boardings": 64333,
+          "alightings": 22452
+        },
+        {
+          "hour": "10",
+          "boardings": 42349,
+          "alightings": 17522
+        },
+        {
+          "hour": "11",
+          "boardings": 38869,
+          "alightings": 19156
+        },
+        {
+          "hour": "12",
+          "boardings": 41064,
+          "alightings": 22872
+        },
+        {
+          "hour": "13",
+          "boardings": 38448,
+          "alightings": 25820
+        },
+        {
+          "hour": "14",
+          "boardings": 33585,
+          "alightings": 30054
+        },
+        {
+          "hour": "15",
+          "boardings": 31320,
+          "alightings": 36675
+        },
+        {
+          "hour": "16",
+          "boardings": 32951,
+          "alightings": 47293
+        },
+        {
+          "hour": "17",
+          "boardings": 35714,
+          "alightings": 61859
+        },
+        {
+          "hour": "18",
+          "boardings": 34585,
+          "alightings": 104487
+        },
+        {
+          "hour": "19",
+          "boardings": 20535,
+          "alightings": 75222
+        },
+        {
+          "hour": "20",
+          "boardings": 15967,
+          "alightings": 48684
+        },
+        {
+          "hour": "21",
+          "boardings": 13404,
+          "alightings": 45442
+        },
+        {
+          "hour": "22",
+          "boardings": 10307,
+          "alightings": 38063
+        },
+        {
+          "hour": "23",
+          "boardings": 4201,
+          "alightings": 24050
+        }
+      ]
+    },
+    {
+      "stationName": "까치산",
+      "stationCodes": [
+        "2519"
+      ],
+      "routeNames": [
+        "5호선"
+      ],
+      "latitude": 37.531768,
+      "longitude": 126.846683,
+      "totalBoardings": 704570,
+      "totalAlightings": 678848,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 636,
+          "alightings": 7179
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 280
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 282,
+          "alightings": 6
+        },
+        {
+          "hour": "05",
+          "boardings": 19334,
+          "alightings": 1209
+        },
+        {
+          "hour": "06",
+          "boardings": 34993,
+          "alightings": 6363
+        },
+        {
+          "hour": "07",
+          "boardings": 93501,
+          "alightings": 8780
+        },
+        {
+          "hour": "08",
+          "boardings": 121437,
+          "alightings": 17952
+        },
+        {
+          "hour": "09",
+          "boardings": 67360,
+          "alightings": 16192
+        },
+        {
+          "hour": "10",
+          "boardings": 43673,
+          "alightings": 16271
+        },
+        {
+          "hour": "11",
+          "boardings": 39151,
+          "alightings": 19572
+        },
+        {
+          "hour": "12",
+          "boardings": 40286,
+          "alightings": 23524
+        },
+        {
+          "hour": "13",
+          "boardings": 37778,
+          "alightings": 26587
+        },
+        {
+          "hour": "14",
+          "boardings": 31890,
+          "alightings": 31420
+        },
+        {
+          "hour": "15",
+          "boardings": 29415,
+          "alightings": 40868
+        },
+        {
+          "hour": "16",
+          "boardings": 29717,
+          "alightings": 50403
+        },
+        {
+          "hour": "17",
+          "boardings": 28747,
+          "alightings": 65171
+        },
+        {
+          "hour": "18",
+          "boardings": 27490,
+          "alightings": 101085
+        },
+        {
+          "hour": "19",
+          "boardings": 18751,
+          "alightings": 77702
+        },
+        {
+          "hour": "20",
+          "boardings": 14459,
+          "alightings": 52989
+        },
+        {
+          "hour": "21",
+          "boardings": 12176,
+          "alightings": 49517
+        },
+        {
+          "hour": "22",
+          "boardings": 9240,
+          "alightings": 40872
+        },
+        {
+          "hour": "23",
+          "boardings": 4254,
+          "alightings": 24906
+        }
+      ]
+    },
+    {
+      "stationName": "발산",
+      "stationCodes": [
+        "2516"
+      ],
+      "routeNames": [
+        "5호선"
+      ],
+      "latitude": 37.558598,
+      "longitude": 126.837668,
+      "totalBoardings": 599319,
+      "totalAlightings": 618206,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 1310,
+          "alightings": 2527
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "05",
+          "boardings": 3103,
+          "alightings": 2158
+        },
+        {
+          "hour": "06",
+          "boardings": 9331,
+          "alightings": 13381
+        },
+        {
+          "hour": "07",
+          "boardings": 25415,
+          "alightings": 39478
+        },
+        {
+          "hour": "08",
+          "boardings": 27796,
+          "alightings": 105258
+        },
+        {
+          "hour": "09",
+          "boardings": 18505,
+          "alightings": 56885
+        },
+        {
+          "hour": "10",
+          "boardings": 20119,
+          "alightings": 32293
+        },
+        {
+          "hour": "11",
+          "boardings": 24446,
+          "alightings": 30277
+        },
+        {
+          "hour": "12",
+          "boardings": 28607,
+          "alightings": 30903
+        },
+        {
+          "hour": "13",
+          "boardings": 30584,
+          "alightings": 32586
+        },
+        {
+          "hour": "14",
+          "boardings": 34426,
+          "alightings": 30221
+        },
+        {
+          "hour": "15",
+          "boardings": 40824,
+          "alightings": 30185
+        },
+        {
+          "hour": "16",
+          "boardings": 47170,
+          "alightings": 31356
+        },
+        {
+          "hour": "17",
+          "boardings": 68406,
+          "alightings": 38360
+        },
+        {
+          "hour": "18",
+          "boardings": 81139,
+          "alightings": 48621
+        },
+        {
+          "hour": "19",
+          "boardings": 38072,
+          "alightings": 34304
+        },
+        {
+          "hour": "20",
+          "boardings": 33203,
+          "alightings": 20846
+        },
+        {
+          "hour": "21",
+          "boardings": 31118,
+          "alightings": 16801
+        },
+        {
+          "hour": "22",
+          "boardings": 25411,
+          "alightings": 13927
+        },
+        {
+          "hour": "23",
+          "boardings": 10334,
+          "alightings": 7839
+        }
+      ]
+    },
+    {
+      "stationName": "가양",
+      "stationCodes": [
+        "4107"
+      ],
+      "routeNames": [
+        "9호선"
+      ],
+      "latitude": 37.561391,
+      "longitude": 126.854456,
+      "totalBoardings": 550337,
+      "totalAlightings": 539264,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 512,
+          "alightings": 4436
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 186
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 82,
+          "alightings": 2
+        },
+        {
+          "hour": "05",
+          "boardings": 13473,
+          "alightings": 1335
+        },
+        {
+          "hour": "06",
+          "boardings": 23293,
+          "alightings": 8006
+        },
+        {
+          "hour": "07",
+          "boardings": 62239,
+          "alightings": 22421
+        },
+        {
+          "hour": "08",
+          "boardings": 65822,
+          "alightings": 47191
+        },
+        {
+          "hour": "09",
+          "boardings": 37527,
+          "alightings": 26702
+        },
+        {
+          "hour": "10",
+          "boardings": 29698,
+          "alightings": 17405
+        },
+        {
+          "hour": "11",
+          "boardings": 29474,
+          "alightings": 19176
+        },
+        {
+          "hour": "12",
+          "boardings": 31793,
+          "alightings": 20707
+        },
+        {
+          "hour": "13",
+          "boardings": 29295,
+          "alightings": 23128
+        },
+        {
+          "hour": "14",
+          "boardings": 26235,
+          "alightings": 25418
+        },
+        {
+          "hour": "15",
+          "boardings": 27081,
+          "alightings": 30615
+        },
+        {
+          "hour": "16",
+          "boardings": 31252,
+          "alightings": 35756
+        },
+        {
+          "hour": "17",
+          "boardings": 37445,
+          "alightings": 40642
+        },
+        {
+          "hour": "18",
+          "boardings": 43657,
+          "alightings": 60968
+        },
+        {
+          "hour": "19",
+          "boardings": 20311,
+          "alightings": 53241
+        },
+        {
+          "hour": "20",
+          "boardings": 16252,
+          "alightings": 33907
+        },
+        {
+          "hour": "21",
+          "boardings": 13327,
+          "alightings": 28029
+        },
+        {
+          "hour": "22",
+          "boardings": 8346,
+          "alightings": 24633
+        },
+        {
+          "hour": "23",
+          "boardings": 3223,
+          "alightings": 15360
+        }
+      ]
+    },
+    {
+      "stationName": "염창",
+      "stationCodes": [
+        "4110"
+      ],
+      "routeNames": [
+        "9호선"
+      ],
+      "latitude": 37.546936,
+      "longitude": 126.874916,
+      "totalBoardings": 453427,
+      "totalAlightings": 432813,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 416,
+          "alightings": 5411
+        },
+        {
+          "hour": "01",
+          "boardings": 1,
+          "alightings": 207
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 10,
+          "alightings": 0
+        },
+        {
+          "hour": "05",
+          "boardings": 10932,
+          "alightings": 708
+        },
+        {
+          "hour": "06",
+          "boardings": 23841,
+          "alightings": 4336
+        },
+        {
+          "hour": "07",
+          "boardings": 65962,
+          "alightings": 7357
+        },
+        {
+          "hour": "08",
+          "boardings": 72780,
+          "alightings": 16833
+        },
+        {
+          "hour": "09",
+          "boardings": 41352,
+          "alightings": 10542
+        },
+        {
+          "hour": "10",
+          "boardings": 27502,
+          "alightings": 10206
+        },
+        {
+          "hour": "11",
+          "boardings": 24402,
+          "alightings": 11048
+        },
+        {
+          "hour": "12",
+          "boardings": 25121,
+          "alightings": 13839
+        },
+        {
+          "hour": "13",
+          "boardings": 22392,
+          "alightings": 15865
+        },
+        {
+          "hour": "14",
+          "boardings": 19006,
+          "alightings": 18300
+        },
+        {
+          "hour": "15",
+          "boardings": 18819,
+          "alightings": 22913
+        },
+        {
+          "hour": "16",
+          "boardings": 19560,
+          "alightings": 27530
+        },
+        {
+          "hour": "17",
+          "boardings": 21111,
+          "alightings": 41999
+        },
+        {
+          "hour": "18",
+          "boardings": 21715,
+          "alightings": 61784
+        },
+        {
+          "hour": "19",
+          "boardings": 12201,
+          "alightings": 53713
+        },
+        {
+          "hour": "20",
+          "boardings": 9435,
+          "alightings": 34845
+        },
+        {
+          "hour": "21",
+          "boardings": 8191,
+          "alightings": 29387
+        },
+        {
+          "hour": "22",
+          "boardings": 5993,
+          "alightings": 28830
+        },
+        {
+          "hour": "23",
+          "boardings": 2685,
+          "alightings": 17160
+        }
+      ]
+    },
+    {
+      "stationName": "마곡",
+      "stationCodes": [
+        "2515"
+      ],
+      "routeNames": [
+        "5호선"
+      ],
+      "latitude": 37.560183,
+      "longitude": 126.825448,
+      "totalBoardings": 407070,
+      "totalAlightings": 405212,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 622,
+          "alightings": 1612
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 2,
+          "alightings": 0
+        },
+        {
+          "hour": "05",
+          "boardings": 2410,
+          "alightings": 2824
+        },
+        {
+          "hour": "06",
+          "boardings": 7026,
+          "alightings": 10014
+        },
+        {
+          "hour": "07",
+          "boardings": 19588,
+          "alightings": 28459
+        },
+        {
+          "hour": "08",
+          "boardings": 20903,
+          "alightings": 68837
+        },
+        {
+          "hour": "09",
+          "boardings": 13013,
+          "alightings": 37226
+        },
+        {
+          "hour": "10",
+          "boardings": 11902,
+          "alightings": 20848
+        },
+        {
+          "hour": "11",
+          "boardings": 13918,
+          "alightings": 19843
+        },
+        {
+          "hour": "12",
+          "boardings": 16467,
+          "alightings": 20462
+        },
+        {
+          "hour": "13",
+          "boardings": 18935,
+          "alightings": 20985
+        },
+        {
+          "hour": "14",
+          "boardings": 21926,
+          "alightings": 19657
+        },
+        {
+          "hour": "15",
+          "boardings": 27394,
+          "alightings": 19444
+        },
+        {
+          "hour": "16",
+          "boardings": 32867,
+          "alightings": 21571
+        },
+        {
+          "hour": "17",
+          "boardings": 48698,
+          "alightings": 24530
+        },
+        {
+          "hour": "18",
+          "boardings": 57471,
+          "alightings": 31413
+        },
+        {
+          "hour": "19",
+          "boardings": 30145,
+          "alightings": 22126
+        },
+        {
+          "hour": "20",
+          "boardings": 23779,
+          "alightings": 12145
+        },
+        {
+          "hour": "21",
+          "boardings": 21865,
+          "alightings": 10020
+        },
+        {
+          "hour": "22",
+          "boardings": 13548,
+          "alightings": 8908
+        },
+        {
+          "hour": "23",
+          "boardings": 4591,
+          "alightings": 4288
+        }
+      ]
+    },
+    {
+      "stationName": "우장산",
+      "stationCodes": [
+        "2517"
+      ],
+      "routeNames": [
+        "5호선"
+      ],
+      "latitude": 37.548768,
+      "longitude": 126.836318,
+      "totalBoardings": 372807,
+      "totalAlightings": 375551,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 210,
+          "alightings": 2814
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "05",
+          "boardings": 5704,
+          "alightings": 713
+        },
+        {
+          "hour": "06",
+          "boardings": 17876,
+          "alightings": 3655
+        },
+        {
+          "hour": "07",
+          "boardings": 42002,
+          "alightings": 8959
+        },
+        {
+          "hour": "08",
+          "boardings": 48533,
+          "alightings": 16693
+        },
+        {
+          "hour": "09",
+          "boardings": 27311,
+          "alightings": 13841
+        },
+        {
+          "hour": "10",
+          "boardings": 23688,
+          "alightings": 13607
+        },
+        {
+          "hour": "11",
+          "boardings": 23390,
+          "alightings": 13942
+        },
+        {
+          "hour": "12",
+          "boardings": 24435,
+          "alightings": 16173
+        },
+        {
+          "hour": "13",
+          "boardings": 23557,
+          "alightings": 19880
+        },
+        {
+          "hour": "14",
+          "boardings": 21518,
+          "alightings": 20724
+        },
+        {
+          "hour": "15",
+          "boardings": 20949,
+          "alightings": 23509
+        },
+        {
+          "hour": "16",
+          "boardings": 20639,
+          "alightings": 27015
+        },
+        {
+          "hour": "17",
+          "boardings": 21001,
+          "alightings": 32672
+        },
+        {
+          "hour": "18",
+          "boardings": 18038,
+          "alightings": 47842
+        },
+        {
+          "hour": "19",
+          "boardings": 11400,
+          "alightings": 36509
+        },
+        {
+          "hour": "20",
+          "boardings": 8311,
+          "alightings": 23477
+        },
+        {
+          "hour": "21",
+          "boardings": 6588,
+          "alightings": 20656
+        },
+        {
+          "hour": "22",
+          "boardings": 5878,
+          "alightings": 21267
+        },
+        {
+          "hour": "23",
+          "boardings": 1779,
+          "alightings": 11603
+        }
+      ]
+    },
+    {
+      "stationName": "등촌",
+      "stationCodes": [
+        "4109"
+      ],
+      "routeNames": [
+        "9호선"
+      ],
+      "latitude": 37.550632,
+      "longitude": 126.865689,
+      "totalBoardings": 314959,
+      "totalAlightings": 307312,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 366,
+          "alightings": 2669
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 15,
+          "alightings": 4
+        },
+        {
+          "hour": "05",
+          "boardings": 5526,
+          "alightings": 1015
+        },
+        {
+          "hour": "06",
+          "boardings": 13561,
+          "alightings": 4518
+        },
+        {
+          "hour": "07",
+          "boardings": 41704,
+          "alightings": 6727
+        },
+        {
+          "hour": "08",
+          "boardings": 51949,
+          "alightings": 16058
+        },
+        {
+          "hour": "09",
+          "boardings": 23729,
+          "alightings": 11290
+        },
+        {
+          "hour": "10",
+          "boardings": 16960,
+          "alightings": 10827
+        },
+        {
+          "hour": "11",
+          "boardings": 16560,
+          "alightings": 10883
+        },
+        {
+          "hour": "12",
+          "boardings": 17356,
+          "alightings": 13146
+        },
+        {
+          "hour": "13",
+          "boardings": 16816,
+          "alightings": 13327
+        },
+        {
+          "hour": "14",
+          "boardings": 15470,
+          "alightings": 15411
+        },
+        {
+          "hour": "15",
+          "boardings": 15481,
+          "alightings": 18124
+        },
+        {
+          "hour": "16",
+          "boardings": 16435,
+          "alightings": 20002
+        },
+        {
+          "hour": "17",
+          "boardings": 16754,
+          "alightings": 29040
+        },
+        {
+          "hour": "18",
+          "boardings": 17401,
+          "alightings": 41809
+        },
+        {
+          "hour": "19",
+          "boardings": 9482,
+          "alightings": 33377
+        },
+        {
+          "hour": "20",
+          "boardings": 7243,
+          "alightings": 19538
+        },
+        {
+          "hour": "21",
+          "boardings": 5882,
+          "alightings": 17013
+        },
+        {
+          "hour": "22",
+          "boardings": 4329,
+          "alightings": 14100
+        },
+        {
+          "hour": "23",
+          "boardings": 1940,
+          "alightings": 8434
+        }
+      ]
+    },
+    {
+      "stationName": "양천향교",
+      "stationCodes": [
+        "4106"
+      ],
+      "routeNames": [
+        "9호선"
+      ],
+      "latitude": 37.568381,
+      "longitude": 126.841333,
+      "totalBoardings": 268025,
+      "totalAlightings": 273151,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 430,
+          "alightings": 1921
+        },
+        {
+          "hour": "01",
+          "boardings": 1,
+          "alightings": 148
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 3,
+          "alightings": 0
+        },
+        {
+          "hour": "05",
+          "boardings": 3990,
+          "alightings": 932
+        },
+        {
+          "hour": "06",
+          "boardings": 9319,
+          "alightings": 8898
+        },
+        {
+          "hour": "07",
+          "boardings": 25483,
+          "alightings": 21252
+        },
+        {
+          "hour": "08",
+          "boardings": 27361,
+          "alightings": 42168
+        },
+        {
+          "hour": "09",
+          "boardings": 14033,
+          "alightings": 15944
+        },
+        {
+          "hour": "10",
+          "boardings": 11018,
+          "alightings": 9261
+        },
+        {
+          "hour": "11",
+          "boardings": 12019,
+          "alightings": 7906
+        },
+        {
+          "hour": "12",
+          "boardings": 13073,
+          "alightings": 9296
+        },
+        {
+          "hour": "13",
+          "boardings": 12526,
+          "alightings": 10167
+        },
+        {
+          "hour": "14",
+          "boardings": 12342,
+          "alightings": 10076
+        },
+        {
+          "hour": "15",
+          "boardings": 14074,
+          "alightings": 10794
+        },
+        {
+          "hour": "16",
+          "boardings": 17720,
+          "alightings": 13316
+        },
+        {
+          "hour": "17",
+          "boardings": 28758,
+          "alightings": 16367
+        },
+        {
+          "hour": "18",
+          "boardings": 33316,
+          "alightings": 25061
+        },
+        {
+          "hour": "19",
+          "boardings": 12371,
+          "alightings": 22128
+        },
+        {
+          "hour": "20",
+          "boardings": 7790,
+          "alightings": 14120
+        },
+        {
+          "hour": "21",
+          "boardings": 6357,
+          "alightings": 13928
+        },
+        {
+          "hour": "22",
+          "boardings": 4357,
+          "alightings": 11236
+        },
+        {
+          "hour": "23",
+          "boardings": 1684,
+          "alightings": 8232
+        }
+      ]
+    },
+    {
+      "stationName": "증미",
+      "stationCodes": [
+        "4108"
+      ],
+      "routeNames": [
+        "9호선"
+      ],
+      "latitude": 37.557402,
+      "longitude": 126.861939,
+      "totalBoardings": 190757,
+      "totalAlightings": 185288,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 127,
+          "alightings": 1252
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 3,
+          "alightings": 0
+        },
+        {
+          "hour": "05",
+          "boardings": 2306,
+          "alightings": 416
+        },
+        {
+          "hour": "06",
+          "boardings": 7142,
+          "alightings": 2466
+        },
+        {
+          "hour": "07",
+          "boardings": 20203,
+          "alightings": 9017
+        },
+        {
+          "hour": "08",
+          "boardings": 21521,
+          "alightings": 39677
+        },
+        {
+          "hour": "09",
+          "boardings": 10719,
+          "alightings": 15683
+        },
+        {
+          "hour": "10",
+          "boardings": 8571,
+          "alightings": 5759
+        },
+        {
+          "hour": "11",
+          "boardings": 8151,
+          "alightings": 5496
+        },
+        {
+          "hour": "12",
+          "boardings": 8723,
+          "alightings": 5664
+        },
+        {
+          "hour": "13",
+          "boardings": 8464,
+          "alightings": 6265
+        },
+        {
+          "hour": "14",
+          "boardings": 7742,
+          "alightings": 7030
+        },
+        {
+          "hour": "15",
+          "boardings": 8378,
+          "alightings": 7736
+        },
+        {
+          "hour": "16",
+          "boardings": 9106,
+          "alightings": 9143
+        },
+        {
+          "hour": "17",
+          "boardings": 18003,
+          "alightings": 11930
+        },
+        {
+          "hour": "18",
+          "boardings": 30035,
+          "alightings": 18170
+        },
+        {
+          "hour": "19",
+          "boardings": 8949,
+          "alightings": 13313
+        },
+        {
+          "hour": "20",
+          "boardings": 5520,
+          "alightings": 8399
+        },
+        {
+          "hour": "21",
+          "boardings": 4100,
+          "alightings": 7147
+        },
+        {
+          "hour": "22",
+          "boardings": 2179,
+          "alightings": 6896
+        },
+        {
+          "hour": "23",
+          "boardings": 815,
+          "alightings": 3829
+        }
+      ]
+    },
+    {
+      "stationName": "방화",
+      "stationCodes": [
+        "2511"
+      ],
+      "routeNames": [
+        "5호선"
+      ],
+      "latitude": 37.577446,
+      "longitude": 126.812741,
+      "totalBoardings": 179095,
+      "totalAlightings": 172831,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 108,
+          "alightings": 1954
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 187
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 35,
+          "alightings": 0
+        },
+        {
+          "hour": "05",
+          "boardings": 4320,
+          "alightings": 3
+        },
+        {
+          "hour": "06",
+          "boardings": 9715,
+          "alightings": 3037
+        },
+        {
+          "hour": "07",
+          "boardings": 21447,
+          "alightings": 4630
+        },
+        {
+          "hour": "08",
+          "boardings": 22297,
+          "alightings": 10104
+        },
+        {
+          "hour": "09",
+          "boardings": 13271,
+          "alightings": 7077
+        },
+        {
+          "hour": "10",
+          "boardings": 11577,
+          "alightings": 5853
+        },
+        {
+          "hour": "11",
+          "boardings": 11520,
+          "alightings": 6465
+        },
+        {
+          "hour": "12",
+          "boardings": 11799,
+          "alightings": 7032
+        },
+        {
+          "hour": "13",
+          "boardings": 10758,
+          "alightings": 7895
+        },
+        {
+          "hour": "14",
+          "boardings": 9586,
+          "alightings": 9449
+        },
+        {
+          "hour": "15",
+          "boardings": 9516,
+          "alightings": 10297
+        },
+        {
+          "hour": "16",
+          "boardings": 9627,
+          "alightings": 12189
+        },
+        {
+          "hour": "17",
+          "boardings": 10124,
+          "alightings": 14222
+        },
+        {
+          "hour": "18",
+          "boardings": 9534,
+          "alightings": 19338
+        },
+        {
+          "hour": "19",
+          "boardings": 5024,
+          "alightings": 17231
+        },
+        {
+          "hour": "20",
+          "boardings": 3514,
+          "alightings": 11035
+        },
+        {
+          "hour": "21",
+          "boardings": 2640,
+          "alightings": 9923
+        },
+        {
+          "hour": "22",
+          "boardings": 1905,
+          "alightings": 9472
+        },
+        {
+          "hour": "23",
+          "boardings": 778,
+          "alightings": 5438
+        }
+      ]
+    },
+    {
+      "stationName": "신방화",
+      "stationCodes": [
+        "4104"
+      ],
+      "routeNames": [
+        "9호선"
+      ],
+      "latitude": 37.567532,
+      "longitude": 126.816601,
+      "totalBoardings": 173236,
+      "totalAlightings": 170381,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 200,
+          "alightings": 1838
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 3,
+          "alightings": 0
+        },
+        {
+          "hour": "05",
+          "boardings": 4579,
+          "alightings": 710
+        },
+        {
+          "hour": "06",
+          "boardings": 9406,
+          "alightings": 3063
+        },
+        {
+          "hour": "07",
+          "boardings": 21752,
+          "alightings": 4312
+        },
+        {
+          "hour": "08",
+          "boardings": 23252,
+          "alightings": 8933
+        },
+        {
+          "hour": "09",
+          "boardings": 12856,
+          "alightings": 6862
+        },
+        {
+          "hour": "10",
+          "boardings": 9997,
+          "alightings": 5568
+        },
+        {
+          "hour": "11",
+          "boardings": 9265,
+          "alightings": 6302
+        },
+        {
+          "hour": "12",
+          "boardings": 10002,
+          "alightings": 7205
+        },
+        {
+          "hour": "13",
+          "boardings": 9584,
+          "alightings": 7533
+        },
+        {
+          "hour": "14",
+          "boardings": 8448,
+          "alightings": 8739
+        },
+        {
+          "hour": "15",
+          "boardings": 8465,
+          "alightings": 9553
+        },
+        {
+          "hour": "16",
+          "boardings": 9253,
+          "alightings": 11703
+        },
+        {
+          "hour": "17",
+          "boardings": 9404,
+          "alightings": 14441
+        },
+        {
+          "hour": "18",
+          "boardings": 9592,
+          "alightings": 20550
+        },
+        {
+          "hour": "19",
+          "boardings": 5715,
+          "alightings": 17604
+        },
+        {
+          "hour": "20",
+          "boardings": 4683,
+          "alightings": 10847
+        },
+        {
+          "hour": "21",
+          "boardings": 3300,
+          "alightings": 9259
+        },
+        {
+          "hour": "22",
+          "boardings": 2463,
+          "alightings": 9988
+        },
+        {
+          "hour": "23",
+          "boardings": 1017,
+          "alightings": 5371
+        }
+      ]
+    },
+    {
+      "stationName": "송정",
+      "stationCodes": [
+        "2514"
+      ],
+      "routeNames": [
+        "5호선"
+      ],
+      "latitude": 37.561184,
+      "longitude": 126.811973,
+      "totalBoardings": 161106,
+      "totalAlightings": 154950,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 200,
+          "alightings": 1542
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 3,
+          "alightings": 0
+        },
+        {
+          "hour": "05",
+          "boardings": 2762,
+          "alightings": 649
+        },
+        {
+          "hour": "06",
+          "boardings": 5684,
+          "alightings": 3211
+        },
+        {
+          "hour": "07",
+          "boardings": 13992,
+          "alightings": 5128
+        },
+        {
+          "hour": "08",
+          "boardings": 18526,
+          "alightings": 8782
+        },
+        {
+          "hour": "09",
+          "boardings": 13231,
+          "alightings": 6035
+        },
+        {
+          "hour": "10",
+          "boardings": 10126,
+          "alightings": 5649
+        },
+        {
+          "hour": "11",
+          "boardings": 9123,
+          "alightings": 6589
+        },
+        {
+          "hour": "12",
+          "boardings": 9602,
+          "alightings": 7889
+        },
+        {
+          "hour": "13",
+          "boardings": 9099,
+          "alightings": 7898
+        },
+        {
+          "hour": "14",
+          "boardings": 9056,
+          "alightings": 8120
+        },
+        {
+          "hour": "15",
+          "boardings": 8845,
+          "alightings": 9254
+        },
+        {
+          "hour": "16",
+          "boardings": 9274,
+          "alightings": 10732
+        },
+        {
+          "hour": "17",
+          "boardings": 10190,
+          "alightings": 12137
+        },
+        {
+          "hour": "18",
+          "boardings": 10597,
+          "alightings": 16603
+        },
+        {
+          "hour": "19",
+          "boardings": 6762,
+          "alightings": 13239
+        },
+        {
+          "hour": "20",
+          "boardings": 5036,
+          "alightings": 9554
+        },
+        {
+          "hour": "21",
+          "boardings": 3967,
+          "alightings": 8982
+        },
+        {
+          "hour": "22",
+          "boardings": 3282,
+          "alightings": 8173
+        },
+        {
+          "hour": "23",
+          "boardings": 1749,
+          "alightings": 4784
+        }
+      ]
+    },
+    {
+      "stationName": "개화산",
+      "stationCodes": [
+        "2512"
+      ],
+      "routeNames": [
+        "5호선"
+      ],
+      "latitude": 37.572399,
+      "longitude": 126.806171,
+      "totalBoardings": 155208,
+      "totalAlightings": 149024,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 94,
+          "alightings": 1474
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 24
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 1,
+          "alightings": 0
+        },
+        {
+          "hour": "05",
+          "boardings": 4030,
+          "alightings": 145
+        },
+        {
+          "hour": "06",
+          "boardings": 7667,
+          "alightings": 2660
+        },
+        {
+          "hour": "07",
+          "boardings": 18050,
+          "alightings": 5499
+        },
+        {
+          "hour": "08",
+          "boardings": 19160,
+          "alightings": 12132
+        },
+        {
+          "hour": "09",
+          "boardings": 11330,
+          "alightings": 5869
+        },
+        {
+          "hour": "10",
+          "boardings": 8805,
+          "alightings": 5289
+        },
+        {
+          "hour": "11",
+          "boardings": 8753,
+          "alightings": 5706
+        },
+        {
+          "hour": "12",
+          "boardings": 8951,
+          "alightings": 6642
+        },
+        {
+          "hour": "13",
+          "boardings": 8975,
+          "alightings": 6596
+        },
+        {
+          "hour": "14",
+          "boardings": 7915,
+          "alightings": 7404
+        },
+        {
+          "hour": "15",
+          "boardings": 7536,
+          "alightings": 8314
+        },
+        {
+          "hour": "16",
+          "boardings": 8164,
+          "alightings": 9803
+        },
+        {
+          "hour": "17",
+          "boardings": 11144,
+          "alightings": 11527
+        },
+        {
+          "hour": "18",
+          "boardings": 10619,
+          "alightings": 16823
+        },
+        {
+          "hour": "19",
+          "boardings": 4810,
+          "alightings": 13979
+        },
+        {
+          "hour": "20",
+          "boardings": 3537,
+          "alightings": 8780
+        },
+        {
+          "hour": "21",
+          "boardings": 2961,
+          "alightings": 8605
+        },
+        {
+          "hour": "22",
+          "boardings": 1970,
+          "alightings": 7408
+        },
+        {
+          "hour": "23",
+          "boardings": 736,
+          "alightings": 4345
+        }
+      ]
+    },
+    {
+      "stationName": "신목동",
+      "stationCodes": [
+        "4111"
+      ],
+      "routeNames": [
+        "9호선"
+      ],
+      "latitude": 37.544277,
+      "longitude": 126.88308,
+      "totalBoardings": 111390,
+      "totalAlightings": 99539,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 134,
+          "alightings": 910
+        },
+        {
+          "hour": "01",
+          "boardings": 1,
+          "alightings": 73
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 3,
+          "alightings": 0
+        },
+        {
+          "hour": "05",
+          "boardings": 2057,
+          "alightings": 292
+        },
+        {
+          "hour": "06",
+          "boardings": 5631,
+          "alightings": 1795
+        },
+        {
+          "hour": "07",
+          "boardings": 17283,
+          "alightings": 3366
+        },
+        {
+          "hour": "08",
+          "boardings": 16630,
+          "alightings": 6190
+        },
+        {
+          "hour": "09",
+          "boardings": 8200,
+          "alightings": 3972
+        },
+        {
+          "hour": "10",
+          "boardings": 6480,
+          "alightings": 2830
+        },
+        {
+          "hour": "11",
+          "boardings": 5808,
+          "alightings": 3649
+        },
+        {
+          "hour": "12",
+          "boardings": 6393,
+          "alightings": 3531
+        },
+        {
+          "hour": "13",
+          "boardings": 5323,
+          "alightings": 4256
+        },
+        {
+          "hour": "14",
+          "boardings": 5150,
+          "alightings": 4657
+        },
+        {
+          "hour": "15",
+          "boardings": 5030,
+          "alightings": 4710
+        },
+        {
+          "hour": "16",
+          "boardings": 5506,
+          "alightings": 6678
+        },
+        {
+          "hour": "17",
+          "boardings": 6645,
+          "alightings": 7969
+        },
+        {
+          "hour": "18",
+          "boardings": 6121,
+          "alightings": 13094
+        },
+        {
+          "hour": "19",
+          "boardings": 3085,
+          "alightings": 10174
+        },
+        {
+          "hour": "20",
+          "boardings": 2136,
+          "alightings": 6581
+        },
+        {
+          "hour": "21",
+          "boardings": 1806,
+          "alightings": 6433
+        },
+        {
+          "hour": "22",
+          "boardings": 1448,
+          "alightings": 4917
+        },
+        {
+          "hour": "23",
+          "boardings": 520,
+          "alightings": 3462
+        }
+      ]
+    },
+    {
+      "stationName": "공항시장",
+      "stationCodes": [
+        "4103"
+      ],
+      "routeNames": [
+        "9호선"
+      ],
+      "latitude": 37.563726,
+      "longitude": 126.810678,
+      "totalBoardings": 71235,
+      "totalAlightings": 76975,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 109,
+          "alightings": 1129
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 106
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 10,
+          "alightings": 0
+        },
+        {
+          "hour": "05",
+          "boardings": 2617,
+          "alightings": 213
+        },
+        {
+          "hour": "06",
+          "boardings": 3588,
+          "alightings": 902
+        },
+        {
+          "hour": "07",
+          "boardings": 7386,
+          "alightings": 1891
+        },
+        {
+          "hour": "08",
+          "boardings": 9500,
+          "alightings": 3651
+        },
+        {
+          "hour": "09",
+          "boardings": 5426,
+          "alightings": 2781
+        },
+        {
+          "hour": "10",
+          "boardings": 4239,
+          "alightings": 2479
+        },
+        {
+          "hour": "11",
+          "boardings": 3807,
+          "alightings": 2980
+        },
+        {
+          "hour": "12",
+          "boardings": 4301,
+          "alightings": 3581
+        },
+        {
+          "hour": "13",
+          "boardings": 3899,
+          "alightings": 3548
+        },
+        {
+          "hour": "14",
+          "boardings": 3745,
+          "alightings": 3570
+        },
+        {
+          "hour": "15",
+          "boardings": 3570,
+          "alightings": 4647
+        },
+        {
+          "hour": "16",
+          "boardings": 3749,
+          "alightings": 5279
+        },
+        {
+          "hour": "17",
+          "boardings": 4196,
+          "alightings": 6038
+        },
+        {
+          "hour": "18",
+          "boardings": 3688,
+          "alightings": 9440
+        },
+        {
+          "hour": "19",
+          "boardings": 2256,
+          "alightings": 7077
+        },
+        {
+          "hour": "20",
+          "boardings": 1849,
+          "alightings": 5349
+        },
+        {
+          "hour": "21",
+          "boardings": 1465,
+          "alightings": 5030
+        },
+        {
+          "hour": "22",
+          "boardings": 1195,
+          "alightings": 4406
+        },
+        {
+          "hour": "23",
+          "boardings": 640,
+          "alightings": 2878
+        }
+      ]
+    },
+    {
+      "stationName": "개화",
+      "stationCodes": [
+        "4101"
+      ],
+      "routeNames": [
+        "9호선"
+      ],
+      "latitude": 37.578608,
+      "longitude": 126.798153,
+      "totalBoardings": 60269,
+      "totalAlightings": 41783,
+      "hourly": [
+        {
+          "hour": "00",
+          "boardings": 92,
+          "alightings": 365
+        },
+        {
+          "hour": "01",
+          "boardings": 0,
+          "alightings": 19
+        },
+        {
+          "hour": "02",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "03",
+          "boardings": 0,
+          "alightings": 0
+        },
+        {
+          "hour": "04",
+          "boardings": 12,
+          "alightings": 1
+        },
+        {
+          "hour": "05",
+          "boardings": 1926,
+          "alightings": 218
+        },
+        {
+          "hour": "06",
+          "boardings": 5424,
+          "alightings": 1731
+        },
+        {
+          "hour": "07",
+          "boardings": 10145,
+          "alightings": 2741
+        },
+        {
+          "hour": "08",
+          "boardings": 7458,
+          "alightings": 3777
+        },
+        {
+          "hour": "09",
+          "boardings": 2914,
+          "alightings": 1915
+        },
+        {
+          "hour": "10",
+          "boardings": 2430,
+          "alightings": 1646
+        },
+        {
+          "hour": "11",
+          "boardings": 2118,
+          "alightings": 1883
+        },
+        {
+          "hour": "12",
+          "boardings": 2047,
+          "alightings": 1831
+        },
+        {
+          "hour": "13",
+          "boardings": 2025,
+          "alightings": 1796
+        },
+        {
+          "hour": "14",
+          "boardings": 2255,
+          "alightings": 2249
+        },
+        {
+          "hour": "15",
+          "boardings": 2610,
+          "alightings": 2344
+        },
+        {
+          "hour": "16",
+          "boardings": 3716,
+          "alightings": 2137
+        },
+        {
+          "hour": "17",
+          "boardings": 4935,
+          "alightings": 2816
+        },
+        {
+          "hour": "18",
+          "boardings": 4620,
+          "alightings": 4330
+        },
+        {
+          "hour": "19",
+          "boardings": 2102,
+          "alightings": 3705
+        },
+        {
+          "hour": "20",
+          "boardings": 1332,
+          "alightings": 1945
+        },
+        {
+          "hour": "21",
+          "boardings": 1250,
+          "alightings": 1488
+        },
+        {
+          "hour": "22",
+          "boardings": 619,
+          "alightings": 1655
+        },
+        {
+          "hour": "23",
+          "boardings": 239,
+          "alightings": 1191
+        }
+      ]
+    }
+  ]
+}

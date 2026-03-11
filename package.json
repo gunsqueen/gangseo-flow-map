@@ -1,0 +1,33 @@
+{
+  "name": "gangseo-transit-pipeline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "서울시 강서구 버스정류장/지하철역 승하차 데이터 수집 및 전처리 파이프라인",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "fetch:bus:stops": "node scripts/fetchBusStops.js",
+    "fetch:bus:hourly": "node scripts/fetchBusHourly.js",
+    "fetch:subway:stations": "node scripts/fetchSubwayStations.js",
+    "fetch:subway:hourly": "node scripts/fetchSubwayHourly.js",
+    "fetch:all": "node scripts/fetchAll.js",
+    "process:gangseo": "node scripts/processGangseoData.js",
+    "build:data": "node scripts/fetchAll.js && node scripts/processGangseoData.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "leaflet": "^1.9.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-leaflet": "^5.0.0",
+    "recharts": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.4",
+    "vite": "^7.3.1"
+  }
+}
