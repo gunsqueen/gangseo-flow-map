@@ -305,8 +305,8 @@ export default function App() {
     <div className="app-shell">
       <header className="topbar">
         <div>
-          <p className="eyebrow">Gangseo Transit Flow</p>
-          <h1>강서구 버스정류장 · 지하철역 유동인구 지도</h1>
+          <p className="eyebrow">서울시 행정동 데이터맵</p>
+          <h1>서울시 행정동 데이터맵</h1>
           <p className="topbar-copy">
             실제 전처리 JSON을 읽어 시간대별 유동인구를 지도와 랭킹으로 확인합니다.
           </p>
